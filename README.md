@@ -4,6 +4,8 @@
 This **Sales Performance Dashboard** provides a comprehensive overview of sales metrics for **Pizza Hut** and **KFC** brands across key regions: **Hong Kong, Taiwan, and Vietnam**. The dashboard is designed to track, analyze, and evaluate performance trends over time, with a particular focus on **monthly and weekly sales**, **budget alignment**, and **year-over-year growth**.
 
 ---
+![Demo](Dashboard/Sales-performance.gif)
+---
 
 
 ## 📌 Dashboard Components
